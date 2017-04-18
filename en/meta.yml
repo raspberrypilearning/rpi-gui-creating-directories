@@ -2,9 +2,9 @@ title: rpi-creating-directories
 hero_image: images/banner.png
 subtitle: rpi-creating-directories subtitle
 description: rpi-creating-directories description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+original_url: 
 theme: cc-prototype
 published: false
 steps:
-  - title: Step one
+  - title: Creating Directories on a Raspberry Pi
     duration: 60
