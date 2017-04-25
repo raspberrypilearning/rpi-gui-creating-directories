@@ -4,7 +4,7 @@ subtitle: rpi-creating-directories subtitle
 description: rpi-creating-directories description
 original_url: 
 theme: cc-prototype
-published: true
+published: false
 steps:
   - title: Creating Directories on a Raspberry Pi
     duration: 60
