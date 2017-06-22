@@ -1,5 +1,3 @@
-## Creating Directories on a Raspberry Pi
-
 There are two ways to create directories on the Raspberry Pi. The first uses the GUI, and the second uses the Terminal.
 
 ### Method 1 - Using the GUI
