@@ -15,18 +15,18 @@ There are two ways to create directories on the Raspberry Pi. The first uses the
 
 ![Terminal-make-directory](images/Terminal-make-directory.gif)
 
-- Open a new Terminal window by clicking on the icon in the top left corner of the screen.
+- Open a new Terminal window by clicking on the icon in the top left corner of the screen
 
    ![terminal](images/terminal.png)
 
-- You can create a new directory using the `mkdir` command
+- Create a new directory using the `mkdir` command
 
 	~~~bash
 	mkdir my-new-directory
 	~~~
 
 - You can list the contents of the current directory using `ls`
-- To enter your new directory use the `cd` command
+- Use the `cd` command to enter your new directory
 
 	~~~bash
 	cd my-new-directory
