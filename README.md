@@ -1,2 +1,2 @@
-# rpi-creating-directories 
+# rpi-gui-creating-directories 
 Some readme content

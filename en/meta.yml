@@ -1,10 +1,12 @@
-title: rpi-creating-directories
+title: Creating Directories on a Raspberry Pi
 hero_image: images/banner.png
-subtitle: rpi-creating-directories subtitle
-description: rpi-creating-directories description
-original_url: 
+description: Learn how to create a directory in two different ways
+original_url:
 theme: cc-prototype
-published: false
+duration: 1
+listed: false
+ingredient: true
+interests: ""
+technologies: "raspbian"
 steps:
   - title: Creating Directories on a Raspberry Pi
-    duration: 60
