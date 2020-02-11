@@ -1,35 +1,35 @@
-There are two ways to create directories on the Raspberry Pi. The first uses the GUI, and the second uses the Terminal.
+Υπάρχουν δύο τρόποι για να δημιουργήσεις καταλόγους στο Raspberry Pi. Ο πρώτος χρησιμοποιεί το γραφικό περιβάλλον επικοινωνίας - GUI και ο δεύτερος χρησιμοποιεί το τερματικό.
 
-### Method 1 - Using the GUI
+### Μέθοδος 1 - Χρήση του γραφικού περιβάλλοντος επικοινωνίας - GUI
 
-![GUI-make-directory](images/GUI-make-directory.gif)
+![GUI-δημιουργία-φακέλου](images/GUI-make-directory.gif)
 
-- Open a File Manager window by clicking on the icon in the top left corner of the screen
+- Άνοιξε ένα παράθυρο του διαχειριστή αρχείων κάνοντας κλικ στο εικονίδιο στην επάνω αριστερή γωνία της οθόνης
 
-   ![file-manager](images/file-manager.png)
+   ![διαχείριση αρχείων](images/file-manager.png)
 
-- In the window, right-click and select *Create New...* and then *Folder* from the context menu
-- In the dialogue box, type the name of your new directory and then click *OK*
+- Στο παράθυρο, κάνε δεξί κλικ και επιλέξε * Δημιουργία νέου... * και στη συνέχεια * Φάκελος * από το μενού περιβάλλοντος
+- Στο παράθυρο διαλόγου, πληκτρολόγησε το όνομα του νέου σου καταλόγου και στη συνέχεια κάνε κλικ στο κουμπί * OK *
 
-### Method 2 - Using the Terminal
+### Μέθοδος 2 - Χρήση του Τερματικού
 
-![Terminal-make-directory](images/Terminal-make-directory.gif)
+![Τερματικό-δημιουργία-φακέλου](images/Terminal-make-directory.gif)
 
-- Open a new Terminal window by clicking on the icon in the top left corner of the screen
+- Άνοιξε ένα νέο παράθυρο του Τερματικού κάνοντας κλικ στο εικονίδιο στην επάνω αριστερή γωνία της οθόνης
 
-   ![terminal](images/terminal.png)
+   ![τερματικό](images/terminal.png)
 
-- Create a new directory using the `mkdir` command
+- Δημιουργήσε έναν νέο κατάλογο χρησιμοποιώντας την εντολή mkdir ` `
 
     ~~~bash
     mkdir my-new-directory
     ~~~
 
-- You can list the contents of the current directory using `ls`
-- Use the `cd` command to enter your new directory
+- Μπορείς να εμφανίσεις σε λίστα τα περιεχόμενα του τρέχοντος καταλόγου χρησιμοποιώντας το ` ls `
+- Χρησιμοποιήσε την εντολή cd ` ` για να μπείς στο νέο σου κατάλογο
 
     ~~~bash
-    cd my-new-directory
+    mkdir my-new-directory
     ~~~
 
 
