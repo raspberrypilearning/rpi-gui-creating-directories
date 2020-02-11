@@ -1,7 +1,7 @@
 ---
-title: Creating Directories on a Raspberry Pi
+title: Δημιουργία καταλόγων σε ένα Raspberry Pi
 hero_image: images/banner.png
-description: Learn how to create a directory in two different ways
+description: Μάθε πώς μπορείς να δημιουργήσεις έναν κατάλογο με δύο διαφορετικούς τρόπους
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests: ""
 technologies: "raspbian"
 steps:
   - 
-    title: Creating Directories on a Raspberry Pi
+    title: Δημιουργία καταλόγων σε ένα Raspberry Pi
